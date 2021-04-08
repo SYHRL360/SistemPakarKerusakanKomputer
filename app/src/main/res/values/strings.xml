@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pakar Komputer</string>
+    <string name="splash_screen_text">Aplikasi Sistem Pakar\nDiagnosa Kerusakan Konputer</string>
+    <string name="header_title1">Aplikasi Sistem Pakar</string>
+    <string name="header_title2">Diagnosa Kerusakan Pada Komputer</string>
+    <string name="info_kerusakan">Info\nKerusakan</string>
+    <string name="diagnosa">Diagnosa</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="keluar">Keluar</string>
+    <string name="text_button_ya">Ya</string>
+    <string name="text_button_tidak">Tidak</string>
+    <string name="tentang_aplikasi_menu">Tentang Aplikasi</string>
+    <string name="title_penyebab">Penyebab</string>
+    <string name="lorem_ipsum_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquam velit non ante mollis, quis aliquet arcu finibus. Fusce interdum auctor sem, nec laoreet mi efficitur sed. Suspendisse et metus dui. Mauris vel arcu nec purus bibendum commodo. Suspendisse nec nibh odio. Suspendisse pretium, velit eu varius vestibulum, lorem erat volutpat ex, a mollis ligula dui eu magna. Nulla facilisis justo non ante volutpat tempus.
+    </string>
+    <string name="title_gejala_keruskan">Gejala Kerusakan</string>
+    <string name="title_solusi">Solusi</string>
+    <string name="tab_text_1">Info\nKerusakan</string>
+    <string name="tab_text_2">Diagnosa</string>
+    <string name="tab_text_3">Tentang\nAplikasi</string>
+    <string name="title_appbar_diagosa">Diagnosa Kerusakan</string>
+    <string name="title_appbar_detailkerusakan">Detail Kerusakan</string>
+    <string name="title_info_kerusakan">Informasi Kerusakan</string>
+    <string name="title_appbar_tentang">Tentang</string>
+    <string name="title_appbar_bantuan">Bantuan</string>
+    <string name="button_detail">DETAIL</string>
+    <string name="dialog_title_hasildiagnosa1">Hasil Diagnosa\nKerusakan</string>
+
+    <string name="text_tentang_aplikasi">Aplikasi Sistem Pakar Diagnosa\nKerusakan Pada Komputer</string>
+    <string name="nama_mahasiswa">Nama Pembuat : Syahrul Ramadhan\n\nNIM : 12161040\n\nDosen Pembimbing : Linda Marlinda, MM.,M.Kom \n\nAsisten Dosen Pembimbing : Ratih Yulia Hayuningtyas, M.Kom</string>
+    <string name="tujuan_aplikasi_dibuat">Aplikasi ini dibuat sebagai tugas skripsi untuk mencapai kelulusan Program Strata Satu (S1) Program Studi Teknik Informatika pada STMIK Nusa Mandiri.</string>
+    <string name="info_kampus">Program Studi Teknik Informatika\nSTMIK Nusa Mandiri\nJakarta</string>
+    <string name="text_bantuan_info1">Menu info kerusakan menampilan daftar data kerusakan komputer yang ada pada Aplikasi Sistem Pakar ini</string>
+    <string name="text_bantuan_info2">Pengguna bisa memilih salah satu jenis kerusakan dan bisa meilihat detail kerusakan yang dipilih</string>
+    <string name="text_bantuan_info3">Setelah itu akan langsung tampil detail kerusakan komputer yang telah dipilih</string>
+    <string name="text_bantuan_diagnosa1">Menu diganosa berfungsi untuk mendiagnosa kerusakan pada komputer. Pilih menu diagnosa untuk memulai diagnosa</string>
+    <string name="text_bantuan_diagnosa2">Maka akan tampil pertanyaan yang harus dijawab mengenai gejala kerusakan komputer. Untuk menjawabnya bisa memilih tombol \"Ya\" atau \"Tidak\" sesuai dengan gejala yang dialami.</string>
+    <string name="text_bantuan_diagnosa3">Pertanyaan tentang gejala kerusakan akan terus diberikan dan harus dijawab sesuai dengan gejala kerusakan yang dialami sampai Aplikasi Sistem Pakar menemukan data kerusakan komputer yang sesuai dengan jawaban yang dipilih.</string>
+    <string name="text_bantuan_diagnosa4">Setelah menjawab pertanyaan mengenai gejala kerusakan komputer selanjutnya akan tampil hasil diagnosa kerusakan komputer. Tekan tombol \"Detail\" untuk melihat detail kerusakan</string>
+    <string name="text_bantuan_diagnosa5">Detail kerusakan yang menampilakan nama kerusakan, penyebab, gejala kerusakan dan solusi mengenai kerusakan yang dialami.</string>
+    <string name="text_bantuan_tentang1">Menu tentang menampilkan deskripsi dan info pembuat Aplikasi Sistem Pakar ini. Pilih menu yang ada dipojok kanan atas untuk menampilakan menu tentang.</string>
+    <string name="text_bantuan_tentang2">Lalu akan muncul drop down manu, pilih \"Tentang Aplikasi\".</string>
+    <string name="text_bantuan_tentang3">Maka akan tampil informasi tentang Aplikasi Sistem Pakar Diagnosa Kerusakan Komputer ini.</string>
+</resources>
