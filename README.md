@@ -21,13 +21,24 @@ Fitur
 
 Instalasi
 -------------------------------------------------------------------------------------------------
-#### Mengunakan Git
+#### Menggunakan Git
 ```bash
 git clone https://github.com/SYHRL360/SistemPakarKerusakanKomputer.git
 ```
 
 #### Download ZIP
 [download](https://github.com/SYHRL360/SistemPakarKerusakanKomputer/archive/refs/heads/main.zip) 
+
+Setup
+-------------------------------------------------------------------------------------------------
+1. Buka Android Studio Versi 3.5.3
+2. Pilih "Open an existing Android Studion project"
+3. Pilih folder/directory tempat project yang sudag di clone/download
+4. Jalankan emulator Android Studio dengan Versi OS 8.0 (oreo)
+5. klik tombol tombol run pada Android Studio
+
+Screen Shoot
+-------------------------------------------------------------------------------------------------
 
 
 
