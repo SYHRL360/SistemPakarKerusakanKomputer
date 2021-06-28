@@ -1,5 +1,5 @@
 # Sistem Pakar Diagnosa Kerusakan Komputer Mengunakan Metode Forward Chaining Berbasis Android
-
+![graphic_feature](https://user-images.githubusercontent.com/81602971/123663798-f2fc1980-d860-11eb-9f58-2c0fdbe2bd29.png)
 
 Deskripsi
 -------------------------------------------------------------------------------------------------
@@ -29,6 +29,10 @@ git clone https://github.com/SYHRL360/SistemPakarKerusakanKomputer.git
 #### Download ZIP
 [download](https://github.com/SYHRL360/SistemPakarKerusakanKomputer/archive/refs/heads/main.zip) 
 
+#### Download Aplikasi (Versi APK)
+Download VIA Google Drive
+[download_APK](https://drive.google.com/file/d/1zDqaYLIDS0yBUPaSraR6HRT1PcJresIx/view?usp=sharing)
+
 Setup
 -------------------------------------------------------------------------------------------------
 1. Buka Android Studio Versi 3.5.3
@@ -39,9 +43,23 @@ Setup
 
 Screen Shoot
 -------------------------------------------------------------------------------------------------
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/81602971/123664637-b54bc080-d861-11eb-939c-bf03723d6669.png"/></td>
+    <td><img src="https://user-images.githubusercontent.com/81602971/123664857-f0e68a80-d861-11eb-8ef6-55eebda423bb.png"/></td>
+    <td><img src="https://user-images.githubusercontent.com/81602971/123665097-29866400-d862-11eb-8380-59ad3650246e.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/81602971/123666276-42dbe000-d863-11eb-9743-3d1f45bd57f5.png"/></td>
+    <td><img src="https://user-images.githubusercontent.com/81602971/123665534-913caf00-d862-11eb-84b9-265fb5c7a75d.png"/></td>
+    <td><img src="https://user-images.githubusercontent.com/81602971/123665798-d1039680-d862-11eb-8a28-3a9bbdf0b5ee.png"/></td>
+  </tr>
+</table>
 
 
-
+License
+-------------------------------------------------------------------------------------------------
+[MIT License](https://opensource.org/licenses/MIT)
 
 
 
